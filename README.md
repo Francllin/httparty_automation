@@ -1,4 +1,4 @@
-# Processo Seletivo WM - Testes de GET, PUT, POST e DELETE automatizado com HTTParty.
+# Testes de GET, PUT, POST e DELETE automatizado com HTTParty.
 
 The objective of test is to automate the HTTP verbs. The site was used jsonplaceholder.typicode.com with endpoint "/posts".
 
